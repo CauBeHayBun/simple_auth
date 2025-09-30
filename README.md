@@ -68,6 +68,7 @@ URL: http://localhost:3000
 Khi gửi request, server trả về Set-Cookie trong response headers
 
 Cookie được lưu để quản lý session
-![Basic Auth Header](./Public/results/basic_auth_header.png)
-![Cookie Auth 1](./Public/results/public1.png)
-![Cookie Auth 2](./Public/results/public2.png)
+![Basic Auth Test](https://raw.githubusercontent.com/CauBeHayBun/simple_auth/main/public/results/basic_auth_header.png)
+![Cookie Auth Test 1](https://raw.githubusercontent.com/CauBeHayBun/simple_auth/main/public/results/public1.png)
+![Cookie Auth Test 2](https://raw.githubusercontent.com/CauBeHayBun/simple_auth/main/public/results/public2.png)
+
