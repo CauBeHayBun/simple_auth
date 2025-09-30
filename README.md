@@ -69,3 +69,10 @@ Khi gửi request, server trả về Set-Cookie trong response headers
 
 Cookie được lưu để quản lý session
 
+<img width="959" height="607" alt="image" src="https://github.com/user-attachments/assets/5d190004-19f9-470f-8a5f-a1e975fb1e0e" />
+<img width="767" height="494" alt="image" src="https://github.com/user-attachments/assets/ea38f28b-7540-4cb2-8ee0-e2a66734bb10" />
+<img width="1004" height="620" alt="image" src="https://github.com/user-attachments/assets/b6eac41c-3e1b-498f-addd-1e6e1b2ed68c" />
+
+
+
+
